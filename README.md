@@ -1,3 +1,5 @@
+<img src="https://www.alura.com.br/assets/img/imersoes/react/imersao-react-logo.1594044142.svg" alt="">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
