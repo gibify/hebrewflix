@@ -48,6 +48,10 @@
           "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
         },
         {
+          "titulo": "Quando escolher entre Spring e Node",
+          "url": "https://www.youtube.com/watch?v=p3gsO-qanYE"
+        },
+        {
           "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
           "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
         },
@@ -63,7 +67,7 @@
     },
     {
       "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "cor": "#ffd343",
       "link_extra": {
         "text": "Cursos de Data Science na Alura",
         "url": "https://www.alura.com.br/formacao-data-science"
@@ -84,6 +88,10 @@
         {
           "titulo": "Como ingressar no mercado de Data Science?",
           "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+        },
+        {
+          "titulo": "Aprenda tudo sobre Data Science, seus primeiros passos",
+          "url": "https://www.youtube.com/watch?v=IQdISZCosAE"
         }
       ]
     },
