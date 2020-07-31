@@ -19,7 +19,7 @@ function Category() {
   useEffect(() => {
     const URL_TOP = window.location.hostname.includes('localhost')
       ? 'http://localhost:8080/categories'
-      : 'https://devsoutinhoflix.herokuapp.com/categories';
+      : 'https://hebrewflix.herokuapp.com/categories';
     fetch(URL_TOP)
       .then(async (responseFromServer) => {
         const response = await responseFromServer.json();
