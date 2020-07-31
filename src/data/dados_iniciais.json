@@ -1,51 +1,42 @@
 {
-  "categorias": [
+  "categories": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#61DAFB",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
+      "titulo": "Alfabeto",
+      "cor": "#2A7AE4",
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Números em Hebraico - Números cardinais 1-10" ,
+          "url": "https://www.youtube.com/watch?v=PcgpfrpSRd4"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "AULA DE HEBRAICO - Treino de leer , os pontos",
+          "url": "https://www.youtube.com/watch?v=uUVSiMovaMY"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "AULA DE HEBRAICO - ESCRITA - todos o pontos e a som",
+          "url": "https://www.youtube.com/watch?v=11LUtRnWtd0"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "AULA DE HEBRAICO - leer + pontos com a minha fala",
+          "url": "https://www.youtube.com/watch?v=p236KDVN2FI"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "AULA DE HEBRAICO - palavras e letras",
+          "url": "https://www.youtube.com/watch?v=LPlQd_lYlP0"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Alfabeto Hebraico",
+          "url": "https://www.youtube.com/watch?v=W2AWjXvAtow"
         }      
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#026e00",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
+      "titulo": "Verbos",
+      "cor": "#2A7AE4",
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "AULA DE HEBRAICO - VERBOS E LUGARES",
+          "url": ""
         },
         {
           "titulo": "Quando escolher entre Spring e Node",
@@ -66,8 +57,8 @@
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#ffd343",
+      "titulo": "Expressões",
+      "cor": "#2A7AE4",
       "link_extra": {
         "text": "Cursos de Data Science na Alura",
         "url": "https://www.alura.com.br/formacao-data-science"
@@ -96,8 +87,8 @@
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "titulo": "Vocabulários",
+      "cor": "#2A7AE4",
       "videos": [
         {
           "titulo": "Interestellar",
@@ -118,12 +109,8 @@
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
+      "titulo": "Subastantivos",
+      "cor": "#2A7AE4",
       "videos": [
         {
           "titulo": "Final Fantasy 7",
@@ -148,12 +135,8 @@
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
+      "titulo": "Sobre Israel",
+      "cor": "#2A7AE4",
       "videos": [
         {
           "titulo": "Como estudar melhor?",

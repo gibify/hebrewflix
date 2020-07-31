@@ -4,13 +4,13 @@
 }
 
 :root {
-  --primary: #61DAFB;
+  --primary: #2A7AE4;
   --black: #000000;
   --blackLighter: #9E9E9E;
   --grayLight: #F5F5F5;
   --grayMedium: #e5e5e5; 
   --white: #FFFFFF;
-  --frontEnd: #61DAFB;
+  --frontEnd: #2A7AE4;
   --backEnd: #026e00;
 }
 
@@ -24,7 +24,7 @@ a {
   color: inherit;
 } 
 #root {
-  min-height: 100vh;
+  min-height: calc(100vh - var(--bodyPaddingTop));;
   display: flex;
   flex-direction: column;
 }
